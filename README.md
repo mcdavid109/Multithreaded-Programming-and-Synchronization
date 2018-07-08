@@ -1,7 +1,6 @@
-_______________________Network Spellchecker__________________________
+Network Spellchecker
 
 Student: Tuan Anh Nguyen
-Class: CIS 3207
 
 This project provides us chance to build a network spellchecker with the aim of gaining practical experience with:
     - Multithreaded Programming and the Synchronization problem
